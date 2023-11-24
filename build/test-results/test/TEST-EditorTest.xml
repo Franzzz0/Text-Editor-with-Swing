@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="EditorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-11-22T19:43:33" hostname="CP24-KOMPUTER" time="23.944">
+<testsuite name="EditorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-11-24T13:15:45" hostname="CP24-KOMPUTER" time="46.259">
   <properties/>
-  <testcase name="start" classname="EditorTest" time="23.944"/>
+  <testcase name="start" classname="EditorTest" time="46.259"/>
   <system-out><![CDATA[?[1;31m
 Start test 1?[0m
 ?[1;31m
@@ -34,6 +34,24 @@ Start test 14?[0m
 Start test 15?[0m
 ?[1;31m
 Start test 16?[0m
+?[1;31m
+Start test 17?[0m
+?[1;31m
+Start test 18?[0m
+?[1;31m
+Start test 19?[0m
+?[1;31m
+Start test 20?[0m
+?[1;31m
+Start test 21?[0m
+?[1;31m
+Start test 22?[0m
+?[1;31m
+Start test 23?[0m
+?[1;31m
+Start test 24?[0m
+?[1;31m
+Start test 25?[0m
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
